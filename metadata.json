@@ -1,6 +1,8 @@
 {
-  "name": "KOBE",
+  "name": "Remix KOBE",
   "description": "Invoice and loading document OCR aggregator for extracting item quantities.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
